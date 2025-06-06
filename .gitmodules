@@ -1,0 +1,9 @@
+[submodule "tryrun-corrida"]
+	path = tryrun-corrida
+	url = git@github.com:BruBSilva/tryrun-corrida.git
+[submodule "tryrun-atleta"]
+	path = tryrun-atleta
+	url = git@github.com:BruBSilva/tryrun-atleta.git
+[submodule "tryrun-resultados"]
+	path = tryrun-resultados
+	url = git@github.com:BruBSilva/tryrun-resultados.git

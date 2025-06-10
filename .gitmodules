@@ -7,3 +7,6 @@
 [submodule "tryrun-resultados"]
 	path = tryrun-resultados
 	url = git@github.com:BruBSilva/tryrun-resultados.git
+[submodule "tryrun-service-discovery"]
+	path = tryrun-service-discovery
+	url = https://github.com/BruBSilva/tryrun-service-discovery.git
